@@ -1,3 +1,10 @@
 # ThicknessDeterminationTEM
-CBED-Thicknessdetermination; GUI and jupyter Notebook. 
-Test test test
+
+
+
+
+# Plans for next version:
+- Comparison with simulations
+- written in "OOP"
+- Material's library
+- writing output
