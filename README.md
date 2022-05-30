@@ -8,11 +8,10 @@ Citation Possibility:
 
 @software{CBED2022,
   author = {Christoph M. Hell},
-  month = {5},
   title = {{CBED-ThicknessDetermination}},
   url = {[https://github.com/TEM-Gemini-Centre/ThicknessDeterminationTEM]},
   version = {4.0},
-  year = {2022}
+  date = {yyyy-mm-dd}
 }
 
 
