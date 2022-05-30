@@ -20,3 +20,4 @@ Citation Possibility:
 - Writing output files
 - Making the CBED-module as a package
 - splitting the get_thickness_plot function into 3
+- Writing a maual/background information file?
