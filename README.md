@@ -6,6 +6,9 @@ Latest version V4.
 
 Citation Possibility:
 
+[![DOI](https://zenodo.org/badge/340407140.svg)](https://zenodo.org/badge/latestdoi/340407140)
+
+
 @software{CBED2022,
   author = {Christoph M. Hell},
   title = {{CBED-ThicknessDetermination}},
