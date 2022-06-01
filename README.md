@@ -9,12 +9,16 @@ Citation Possibility:
 [![DOI](https://zenodo.org/badge/340407140.svg)](https://zenodo.org/badge/latestdoi/340407140)
 
 
-@software{CBED2022,
-  author = {Christoph M. Hell},
-  title = {{CBED-ThicknessDetermination}},
-  url = {https://github.com/TEM-Gemini-Centre/ThicknessDeterminationTEM},
-  version = {4.0},
-  date = {yyyy-mm-dd}
+@software{cmhell_2022,
+  author       = {CMHell},
+  title        = {{TEM-Gemini-Centre/ThicknessDeterminationTEM: CBED 
+                   ThicknessDeterminationTEM}},
+  month        = jun,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {V4},
+  doi          = {10.5281/zenodo.6602265},
+  url          = {https://doi.org/10.5281/zenodo.6602265}
 }
 
 
